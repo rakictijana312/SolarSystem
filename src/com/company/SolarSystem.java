@@ -1,8 +1,9 @@
 package com.company;
 
 public class SolarSystem {
+    public int PLanets;
     int Sun;
-    int Mood;
-    int Planers;
+    int Moon;
+    int Planets;
 
 }
