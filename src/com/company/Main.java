@@ -1,6 +1,6 @@
 package com.company;
 
-public class 9,9o,8876Main {
+public class Main {
     public static void main(String[] args) {
        //developing the basic solar system
         SolarSystem FactorX =new SolarSystem();
@@ -12,8 +12,12 @@ public class 9,9o,8876Main {
         Sun Feron= new Sun();
         Feron.Heat="88888";
         Feron.Radius="2222222";
-        Feron.Temperature= "555";
 
+        //planet1
+        Planet1 p= new Planet1();
+        p.size="1";
+        p.shape="330";
+        
     }
 
 
