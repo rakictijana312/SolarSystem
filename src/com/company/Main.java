@@ -17,7 +17,7 @@ public class Main {
         Planet1 p= new Planet1();
         p.size="1";
         p.shape="330";
-        
+
     }
 
 
