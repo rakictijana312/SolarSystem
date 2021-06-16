@@ -13,10 +13,19 @@ public class Main {
         Feron.Heat="88888";
         Feron.Radius="2222222";
 
+
         //planet1
         Planet1 p= new Planet1();
         p.size="1";
         p.shape="330";
+
+       // Feron.Temperature= "555";
+
+   //planet2
+        Planet2 m= new Planet2();
+        m.shape="3";
+        
+
 
     }
 
