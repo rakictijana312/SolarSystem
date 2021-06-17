@@ -1,6 +1,6 @@
 package com.company;
 
-public class Main {
+public class  Main {
     public static void main(String[] args) {
        //developing the basic solar system
         SolarSystem FactorX =new SolarSystem();
